@@ -1,5 +1,5 @@
 # ClockMTB
-Discord bot with utility tools for Rubik's Clock. (WIP)
+Discord bot with miscellaneous utility tools for Rubik's Clock. (WIP)
 
 ## Run
 
